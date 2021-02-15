@@ -13,4 +13,8 @@ public class Calculadora {
     public int mult(int num1, int num2){
         return num1 * num2;
     }
+
+    public float div(int num1, int divisor){
+        return num1/divisor;
+    }
 }
